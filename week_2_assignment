@@ -1,5 +1,6 @@
 #1 Creating an empty list
-my_list=list()
+my_list=list()   #or 
+my_list=[]
 
 #2 appending elements to the list
 my_list.append(10)
